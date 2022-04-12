@@ -4,6 +4,7 @@
     "description": "Download movies data",
     "main": "index.js",
     "scripts": {
+        "createJSON": "nodejs createJSONdb.js",
         "createXML": "nodejs createXML.js",
         "getImdbIds": "nodejs getIMDBids.js"
     },
