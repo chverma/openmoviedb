@@ -1,0 +1,8 @@
+{
+    "imdb" : [
+        "https://www.imdb.com/chart/top/?ref_=nv_mv_250",
+        "https://www.imdb.com/chart/moviemeter/?ref_=nv_mv_mpm",
+        "https://www.imdb.com/chart/toptv/?ref_=nv_tvv_250",
+        "https://www.imdb.com/chart/tvmeter/?ref_=nv_tvv_mptv"
+    ]
+}
