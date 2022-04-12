@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<movies>
+    <movie>
+        <title>Se7en</title>
+        <year>1995</year>
+        <rated>R</rated>
+        <released>22 Sep 1995</released>
+        <runtime time='min'>127</runtime>
+        <genres>
+            <genre type="Crime"></genre>
+            <genre type="Drama"></genre>
+            <genre type="Mystery"></genre>
+        </genres>
+        <director>David Fincher</director>>
+        <writer>Andrew Kevin Walker</writer>
+        <actors>
+            <actor>Morgan Freeman</actor>
+            <actor>Brad Pitt</actor>
+            <actor>Kevin Spacey</actor>
+        </actors>
+        <plot>A film about two homicide detectives' (Morgan Freeman and Brad Pitt) desperate hunt for a serial killer who justifies his crimes as absolution for the world's ignorance of the Seven Deadly Sins. The movie takes us from the tortured remains of one victim to the next as the sociopathic \"John Doe\" (Kevin Spacey) sermonizes to Detectives Somerset and Mills -- one sin at a time. The sin of Gluttony comes first and the murderer's terrible capacity is graphically demonstrated in the dark and subdued tones characteristic of film noir. The seasoned and cultured but jaded Somerset researches the Seven Deadly Sins in an effort to understand the killer's modus operandi while the bright but green and impulsive Detective Mills (Pitt) scoffs at his efforts to get inside the mind of a killer...</plot>
+        <language>English</language>
+        <country>United States</country>
+        <awards>
+            <award>Nominated for 1 Oscar. 29 wins</award>
+            <award>43 nominations total</award>
+        </awards>
+        <poster url="https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg"></poster>
+        <ratings>
+            <rating src="Internet Movie Database">8.6/10</rating>
+            <rating src="Rotten Tomatoes">82%</rating>
+            <rating src="Metacritic">65/100</rating>
+        </ratings>
+        <metascore>65</metascore>
+        <imdbRating>8.6</imdbRating>
+        <imdbVotes>1,569,658</imdbVotes>
+        <imdbID>tt0114369</imdbID>
+        <metascore>65</metascore>
+        <type>movie</type>
+        <dvd>19 Dec 2000</dvd>
+        <BoxOffice>$100,125,643</BoxOffice>
+        <Production>N/A</Production>
+        <Website>N/A</Website>
+    </movie>
+</movies>
