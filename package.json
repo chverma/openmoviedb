@@ -1,18 +1,19 @@
 {
-  "name": "openmoviedb",
-  "version": "1.0.0",
-  "description": "Download movies data",
-  "main": "index.js",
-  "scripts": {
-    "test": "nodejs index.js"
-  },
-  "author": "chverma",
-  "license": "GPL-3.0",
-  "dependencies": {
-    "axios": "^0.26.1",
-    "dotenv": "^16.0.0",
-    "xmldom": "^0.6.0",
-    "xpath": "^0.0.32",
-    "xpath-html": "^1.0.3"
-  }
+    "name": "openmoviedb",
+    "version": "1.0.0",
+    "description": "Download movies data",
+    "main": "index.js",
+    "scripts": {
+        "createXML": "nodejs createXML.js",
+        "getImdbIds": "nodejs getIMDBids.js"
+    },
+    "author": "chverma",
+    "license": "GPL-3.0",
+    "dependencies": {
+        "axios": "^0.26.1",
+        "dotenv": "^16.0.0",
+        "xmldom": "^0.6.0",
+        "xpath": "^0.0.32",
+        "xpath-html": "^1.0.3"
+    }
 }

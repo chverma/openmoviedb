@@ -1,2 +1,4 @@
 BASE_URL=http://omdbapi.com/
 API_KEY=APIKEY
+IMDB_IDS_FILE=imdbIDS.json
+URLS_IMDB_FILE=imdb_urls.json
